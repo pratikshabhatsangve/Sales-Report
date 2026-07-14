@@ -24,7 +24,9 @@ Tracks overall sales performance in real time.
 Identifies top customers and product lines.
 Monitors sales trends across months and years.
 Supports data-driven decision-making through interactive analysis.
+
 Tools & Technologies
+
 1.Power BI
 2.Power Query
 3.DAX Measures
